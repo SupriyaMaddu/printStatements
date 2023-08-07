@@ -1,0 +1,6 @@
+print("Hello World")
+print("###")
+a = input()
+print(a)
+a = input()
+print("Given input: " + a)
